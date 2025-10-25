@@ -14,3 +14,5 @@
 git clone https://github.com/username/async-test-framework.git
 cd async-test-framework
 pip install -r requirements.txt
+
+“Ранее писал эти проекты локально, сейчас перенёс в GitHub для удобства и систематизации.”
